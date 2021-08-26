@@ -1,0 +1,6 @@
+# gitignore created on 08/26/21 at 02:18
+# Disable reminder in prompt
+ignoredirmessage
+tmp/*
+!tmp/.gitkeep
+
