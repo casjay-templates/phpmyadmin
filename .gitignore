@@ -4,3 +4,5 @@ ignoredirmessage
 tmp/*
 !tmp/.gitkeep
 
+# ignore commit message
+.gitcommit
